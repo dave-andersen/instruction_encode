@@ -1,0 +1,26 @@
+[
+{ "name": "add",
+  "max_len": 10
+},
+{ "name": "sub",
+  "max_len": 10
+},
+{ "name": "mul",
+  "max_len": 10
+},
+{ "name": "mul_im",
+  "max_len": 4
+},
+{ "name": "add_im",
+  "max_len": 4
+},
+{ "name": "sub_im",
+  "max_len": 4
+},
+{ "name": "xor",
+  "max_len": 10
+},
+{ "name": "jmp",
+  "max_len": 3
+}
+]
